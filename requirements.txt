@@ -1,7 +1,8 @@
 numpy
-pandas
+pandas 
 matplotlib
 seaborn
-scikit-learn
+streamlit==1.32.2
 joblib
-streamlit
+altair==4.2.2
+scikit-learn
